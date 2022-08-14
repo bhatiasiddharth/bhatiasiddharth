@@ -1,4 +1,6 @@
-### 👋 Hi, I am Siddharth Bhatia, a computer scientist and entrepreneur. I am co-founder and CEO of TurboML, a platform for real-time machine learning.
+### 👋 Hi, I am Siddharth Bhatia
+
+I am co-founder and CEO of TurboML, a platform for real-time machine learning.
 
 Previously, I completed my PhD at National University of Singapore and bachelor's at BITS Pilani. My research was supported by the Presidents Graduate Fellowship and I was recognized as a Young Researcher by the ACM Heidelberg Laureate Forum.
 
