@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Siddharth Bhatia
 
-I am co-founder and CEO of TurboML, a platform for real-time machine learning. Previously, I completed my PhD in [Streaming Anomaly Detection](https://arxiv.org/pdf/2301.13199.pdf) from National University of Singapore (NUS) advised by Bryan Hooi and bachelors at BITS Pilani. My research was supported by the Presidents Graduate Fellowship and I was recognized as a Young Researcher by the ACM Heidelberg Laureate Forum.
+I am building a real-time machine learning platform. Previously, I completed my PhD in [Streaming Anomaly Detection](https://arxiv.org/pdf/2301.13199.pdf) from National University of Singapore (NUS) advised by Bryan Hooi and bachelors at BITS Pilani. My research was supported by the Presidents Graduate Fellowship and I was recognized as a Young Researcher by the ACM Heidelberg Laureate Forum.
 
 During my PhD, I spent wonderful summers interning at Amazon Web Services, and Google Research. I also co-organized the Outlier Detection and Description workshop at KDD which brings together academic and industry researchers, and practitioners to discuss and reflect on outlier mining challenges.
 
