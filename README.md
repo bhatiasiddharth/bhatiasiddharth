@@ -6,4 +6,4 @@ During my PhD, I spent wonderful summers interning at Amazon Web Services, and G
 
 I am best reached via email and am always open to interesting conversations and collaboration.
 
-[Webpage](https://www.comp.nus.edu.sg/~sbhatia/) • [Email](mailto:siddharth@turboml.com) • [Twitter](https://twitter.com/siddharthb_) • [LinkedIn](https://www.linkedin.com/in/siddharthbhatia-nus/)
+[Webpage](http://bhatiasiddharth.com/) • [Email](mailto:siddharth@turboml.com) • [Twitter](https://twitter.com/siddharthb_) • [LinkedIn](https://www.linkedin.com/in/siddharthbhatia-nus/)
