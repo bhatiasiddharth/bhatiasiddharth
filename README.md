@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Siddharth Bhatia
 
-I am building [TurboML](https://turboml.com/), a machine learning platform reinvented for real-time so that you can manage the complete production ML lifecycle while leveraging real-time data.
+I am building [TurboML](https://turboml.com/), a platform for building AI that is Continual, Adaptive, and Personalized.
 
 Previously, I completed my PhD in [Streaming Anomaly Detection](https://arxiv.org/pdf/2301.13199.pdf) from National University of Singapore (NUS) advised by Bryan Hooi and bachelors at BITS Pilani. My research was supported by the Presidents Graduate Fellowship and I was recognized as a Young Researcher by the ACM Heidelberg Laureate Forum.
 
